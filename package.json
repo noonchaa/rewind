@@ -1,8 +1,5 @@
 {
-  "name": "rewind",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@{Noonchaa}"
-  },
+  "name": "noonchaa-rewind",
   "version": "1.0.0",
   "description": "",
   "type": "module",
